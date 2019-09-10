@@ -19,13 +19,13 @@ To claim this, I am signing this object:
       "username": "misterburn"
     },
     "merkle_root": {
-      "ctime": 1568075747,
-      "hash": "0559d4e82cad5b4bd8261b0cf6f26e8e437b44bfef6d7dd4e24307fa8d83e5ed5fa1de2b5db16e40882e947b313d8933d9933c3b18287f53c761ef966a572392",
-      "hash_meta": "59128e54ba458770ec6be5bdcf48213a92e5ff1e0761a1237a852de024c2eea6",
-      "seqno": 6278540
+      "ctime": 1568076605,
+      "hash": "141f996d83ff80a501cff52b14ed755f1991a6b07094c743aaea2c052c5061b208c6699bd36876da37a737920d446491837a8c7a64fc9d1ffe7b1f26843c632a",
+      "hash_meta": "ec99ebfe272e872449043c486955f4fd359b1ffe4aac33755647fb8aeb81787d",
+      "seqno": 6280634
     },
     "service": {
-      "entropy": "t+jsn+K6n7HDRJTSjY/H2EsH",
+      "entropy": "twoBGfxtTBFONr54dAiCkeqB",
       "name": "github",
       "username": "psylo85"
     },
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568075755,
+  "ctime": 1568076619,
   "expire_in": 504576000,
-  "prev": "1c8eb21e9cdc95780258898118f6d9ce3565ae549a9eea84fc87308989a53622",
-  "seqno": 5,
+  "prev": "cc12bf2e74a12ec97e72e2207ba5124c204e734eb558d5c000ee842b9daf3284",
+  "seqno": 7,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,8 @@ To claim this, I am signing this object:
 with the key [ASCfiFpz-aFQmtNE97LIsBNEenc9juf4ZZanTp-Saj8pOgo](https://keybase.io/misterburn), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn4hac/mhUJrTRPeyyLATRHp3PY7n+GWWp06fkmo/KToKp3BheWxvYWTESpcCBcQgHI6yHpzclXgCWImBGPbZzjVlrlSanuqE/IcwiYmlNiLEILa243c7JvYsNqicUarfi1ggs95EoABD9RsZOdt4Ro1eAgHCo3NpZ8RApfAwov7zLiMFlo5ZlH0PU+ISJuzu/S0m07+GFfipNie1LXKx+a+RgmI8n4qeiw6odyVaI4TzY3oAgQrDCbbYAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDmy9YO++RdTYtjHVwOoiA0FuoX4HQKw0vPtBja8AfJao3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn4hac/mhUJrTRPeyyLATRHp3PY7n+GWWp06fkmo/KToKp3BheWxvYWTESpcCB8QgzBK/LnShLsl+cuIge6USTCBOc061WNXAAO6EK52vMoTEICd+u2kHjhq237wQlFzbQQ/abKw2s3jNLec+Z7VxrdhhAgHCo3NpZ8RAHW53gNj7N9n1v+Y8DsYBaZCXAxxQlMn7VmA9Eb1LgHosdhPtg0T2ZcthaYlMvTTb2z2W4HhzD5M1mA9UR0TjCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGBDrXpB4oy7LC/k7uuDVYcDAfHwZvL3Qp5x+VsNUoRzo3RhZ80CAqd2ZXJzaW9uAQ==
+
 
 ```
 
